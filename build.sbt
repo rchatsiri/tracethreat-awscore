@@ -1,12 +1,12 @@
 //Tracethret-aws-core
 
-name := "tracethreat-aws-core"
+name := "tracethreat-awscore"
  
 version := "0.0.1"
  
 scalaVersion := "2.11.2" 
 
-organization := "systems.tracethreat.aws-core"
+organization := "systems.tracethreat.awscore"
 
 libraryDependencies += "org.scala-lang" % "scala-library" % "2.11.2"
 
