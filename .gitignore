@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# Eclipse
+project/target/*
+project/target/
+project/project/target/*
+project/project/target/
+target/*
+target/
