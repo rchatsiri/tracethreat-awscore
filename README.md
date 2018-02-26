@@ -1,2 +1,3 @@
-# tracethreat-aws-core
+# tracethreat-awscore
+
 AWS Tools for Administrators.
