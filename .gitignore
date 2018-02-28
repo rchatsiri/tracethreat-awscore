@@ -35,3 +35,6 @@ project/project/target/*
 project/project/target/
 target/*
 target/
+
+#Project notuse
+aws.system.cfg

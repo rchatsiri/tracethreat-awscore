@@ -53,7 +53,12 @@ libraryDependencies ++= {
 //SQS Streams
 libraryDependencies += "com.lightbend.akka" %% "akka-stream-alpakka-sqs" % "0.17"
 
-libraryDependencies += "com.github.seratch" %% "awscala" % "0.6.+"
+libraryDependencies += "com.github.seratch" %% "awscala" % "0.6.4-SNAPSHOT"
+ 
+
+libraryDependencies += "com.github.seratch.com.veact" %% "scala-ssh" % "0.8.0-1"
+
+ 
 
 // Scala 2.10, 2.11, Query with MySQL 
 libraryDependencies ++= Seq( 

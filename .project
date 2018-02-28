@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>tracethreat-aws-core</name>
+  <name>tracethreat-awscore</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>
