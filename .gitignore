@@ -38,3 +38,4 @@ target/
 
 #Project notuse
 aws.system.cfg
+aws.conf
