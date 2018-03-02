@@ -46,7 +46,8 @@ libraryDependencies ++= {
 	"com.typesafe.akka" %% "akka-slf4j" %  akkaV ,
 	"com.typesafe.akka" %% "akka-stream" %  akkaV ,
 	"com.typesafe.akka" %% "akka-stream-testkit" %  akkaV ,
-	"com.typesafe.akka" %% "akka-testkit" %  akkaV
+	"com.typesafe.akka" %% "akka-testkit" %  akkaV,
+    "com.typesafe.akka" %% "akka-http"   % "10.1.0-RC2"
   )
 }
 
@@ -54,7 +55,6 @@ libraryDependencies ++= {
 libraryDependencies += "com.lightbend.akka" %% "akka-stream-alpakka-sqs" % "0.17"
 
 libraryDependencies += "com.github.seratch" %% "awscala" % "0.6.4-SNAPSHOT"
- 
 
 libraryDependencies += "com.github.seratch.com.veact" %% "scala-ssh" % "0.8.0-1"
 
